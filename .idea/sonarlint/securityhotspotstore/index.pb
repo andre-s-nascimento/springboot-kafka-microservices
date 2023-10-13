@@ -9,3 +9,21 @@ u
 Ebase-domains/src/main/java/net/snascimento/basedomains/dto/Order.java,d/f/df8aba287fd1795025e18425463bf6e313a690d8
 z
 Jbase-domains/src/main/java/net/snascimento/basedomains/dto/OrderEvent.java,a/b/ab3b1e3dea0f04447d7e78f2283bd15bae1fabc6
+Ö
+Uorder-service/src/main/java/net/snascimento/orderservice/config/KafkaTopicConfig.java,e/4/e4c14acbbb4f46424f54ea1aabf13373287ded74
+E
+order-service/pom.xml,d/3/d3bf53ecc442740843266a635cbfe9807b992566
+Å
+Qorder-service/src/main/java/net/snascimento/orderservice/kafka/OrderProducer.java,2/4/246791da5333f014316f00524ad715ee04a01d6f
+à
+Xorder-service/src/main/java/net/snascimento/orderservice/controller/OrderController.java,7/5/755a35aa8edb57956952453704a6ee26dd30e41c
+E
+stock-service/pom.xml,a/9/a9ac805c9e72e252e58df42a10f21df8c4951cce
+E
+email-service/pom.xml,1/9/1955bf807948036d5aef0db8422e263df34f58b7
+Å
+Qstock-service/src/main/java/net/snascimento/stockservice/kafka/OrderConsumer.java,1/0/1031ca4d2dc5c4cf2f2139d68b14d10ed5473e10
+Å
+Qemail-service/src/main/java/net/snascimento/emailservice/kafka/OrderConsumer.java,e/8/e8aa5c28d68d4ccf6391897a47b819c5ee3d1077
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
